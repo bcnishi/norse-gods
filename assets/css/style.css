@@ -87,7 +87,7 @@ li a {
 
     display: flex;
     flex-direction: column;
-    justify-content: flex_start;
+    justify-content: flex-start;
     align-items: center;
     
     padding-top: 100px;
